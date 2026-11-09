@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- Mình là Lê Thiên Mệnh, Sinh viên / Fresher chuyên ngành Công nghệ Thông tin, đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
+  Mình là Lê Thiên Mệnh, Sinh viên / Fresher chuyên ngành Công nghệ Thông tin, đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
 </p>
 
 <div align="center">
@@ -66,7 +66,7 @@
 ### 📊 Thống kê hoạt động GitHub (GitHub Stats)
 
 <div align="center">
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=ltmkz&theme=tokyonight&hide_border=true&background=0D1117" alt="ltmkz's GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ltmkz&theme=tokyonight" alt="ltmkz's GitHub Stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltmkz&theme=tokyonight" alt="Top Languages" />
 </div>
 
