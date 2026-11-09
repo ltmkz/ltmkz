@@ -29,7 +29,7 @@
         <li>🎓 Majoring in <b>Information Technology</b> – pursuing a career as a <b>Fresher Frontend / Full-stack Web Developer</b>.</li>
         <li>💻 Focused on building modern UIs with <b>ReactJS, Next.js, Tailwind CSS, shadcn/ui</b> and working with <b>Supabase, PostgreSQL, MongoDB</b>.</li>
         <li>🌱 Committed to self-learning, writing <b>Clean Code</b>, and staying updated with modern web technologies every day.</li>
-        <li>📫 Reach me at: <b>thienmenh890@gmail.com</b></li>
+        <li>📫 Contact me at: <b>thienmenh890@gmail.com</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
