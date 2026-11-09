@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me / Giới thiệu
 
-Xin chào! Mình là một sinh viên chuyên ngành **Công nghệ Thông tin** và là một **Web Developer** đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và giàu trải nghiệm người dùng.
+Xin chào! Mình là Lê Thiên Mệnh, Mình là một sinh viên chuyên ngành **Công nghệ Thông tin** và là một **Web Developer** đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và giàu trải nghiệm người dùng.
 
 * 🔭 **Trọng tâm hiện tại:** Phát triển các ứng dụng Full-stack Web với **Next.js, ReactJS, TypeScript** và **Supabase**.
 
