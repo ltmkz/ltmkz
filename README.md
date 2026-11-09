@@ -1,33 +1,68 @@
-### 👨‍💻 About Me / Giới thiệu
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+ltmkz!;Full-stack+Web+Developer;ReactJS+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
+</div>
 
-Xin chào! Mình là Lê Thiên Mệnh, Mình là một sinh viên chuyên ngành **Công nghệ Thông tin** và là một **Web Developer** đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và giàu trải nghiệm người dùng.
+<p align="center">
+  Lập trình viên Web chuyên ngành Công nghệ Thông tin, đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js & TypeScript</b>.
+</p>
 
-* 🔭 **Trọng tâm hiện tại:** Phát triển các ứng dụng Full-stack Web với **Next.js, ReactJS, TypeScript** và **Supabase**.
+<div align="center">
+  <a href="mailto:emailcuaban@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ltmkz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-* 🌱 **Đang nghiên cứu chuyên sâu:** Kiến trúc hệ thống (System Design), Server Actions, tối ưu hóa truy vấn CSDL với **PostgreSQL & MongoDB**.
+---
 
-* 💡 **Phương châm làm việc:** *Clean Code, Responsive UI/UX, và Performance Optimization*.
+### 🚀 Giới thiệu bản thân (About Me)
 
-* 📫 **Liên hệ với mình qua:** `thienmenh890@gmail.com`
+- 🎓 Chuyên ngành **Công nghệ Thông tin** – Định hướng phát triển **Full-stack Web Developer**.
+- 💻 Tập trung xây dựng hệ thống Frontend hiện đại với **ReactJS, Next.js** và kiến trúc Backend/BaaS linh hoạt với **Supabase, PostgreSQL, MongoDB**.
+- ⚡ Quan tâm đặc biệt đến tối ưu hóa hiệu năng Web (SSR/SSG, SEO), Clean Code và quản trị hạ tầng triển khai (Cloud/VPS).
+- 📫 Liên hệ với mình qua email: **thienmenh890@gmail.com** 
 
-### 🛠️ Tech Stack & Tools / Kỹ năng Công nghệ
+---
 
-#### **Languages & Core**
+### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
 
-#### **Frontend Development**
+**Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-#### **Backend, BaaS & Databases**
+**Backend, Database & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-#### **DevOps & Tools**
+---
 
-### 🚀 Featured Projects / Dự án Nổi bật
+### 📊 Thống kê hoạt động GitHub (GitHub Stats)
 
-| Dự án | Công nghệ chính | Mô tả ngắn | 
-| ----- | ----- | ----- | 
-| 🌐 [**Web Portal & Digital Tourism**](https://github.com/ltmkz) | `Next.js` `TypeScript` `Supabase` `PostgreSQL` | Nền tảng số hóa thông tin địa phương & du lịch, tối ưu SEO với SSR/SSG và xác thực bảo mật qua Supabase. | 
-| 📊 [**Service & Community Dashboard**](https://github.com/ltmkz) | `ReactJS` `TypeScript` `MongoDB` `Node.js` | Hệ thống quản lý tài khoản, dịch vụ trực tuyến và theo dõi dữ liệu thời gian thực (Realtime Dashboard). | 
-| 🛒 [**Modern Full-Stack Web App**](https://github.com/ltmkz) | `Next.js` `Tailwind` `PostgreSQL` `Prisma` | Ứng dụng web hiện đại tích hợp giỏ hàng, phân quyền người dùng, tìm kiếm nâng cao và CI/CD trên Vercel. | 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ltmkz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ltmkz's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltmkz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-*(💡 Xem thêm các dự án được ghim ngay bên dưới!)*
-
-### 📈 GitHub Analytics / Thống kê Hoạt động
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ltmkz&label=Profile%20views&color=0e75b6&style=flat" alt="ltmkz" />
+</p>
