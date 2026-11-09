@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Sinh viên / Fresher chuyên ngành Công nghệ Thông tin, đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
+ Mình là Lê Thiên Mệnh, Sinh viên / Fresher chuyên ngành Công nghệ Thông tin, đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
 </p>
 
 <div align="center">
