@@ -23,7 +23,7 @@
 - 🎓 Majoring in **Information Technology** – pursuing a career as a **Fresher Frontend / Full-stack Web Developer**.
 - 💻 Focused on building modern UIs with **ReactJS, Next.js, Tailwind CSS, shadcn/ui** and working with **Supabase, PostgreSQL, MongoDB**.
 - 🌱 Committed to self-learning, writing **Clean Code**, and staying updated with modern web technologies every day.
-- 📫 Reach me at: **thienmenh890@gmail.com**
+- 📫 Contact me at: **thienmenh890@gmail.com**
 
 <details>
   <summary><b>🇻🇳 Nhấn vào đây để xem bản Tiếng Việt (Click for Vietnamese version)</b></summary>
