@@ -1,47 +1,45 @@
-
+<!-- SHADCN/UI STYLE MINIMALIST HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ltmkz&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-stack%20Web%20Developer%20%7C%20ReactJS%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=150&section=header&text=ltmkz&fontSize=46&fontColor=fafafa&fontAlignY=42&desc=Fresher%20Web%20Developer%20%E2%80%A2%20Next.js%20%26%20TypeScript%20Ecosystem&descAlignY=68&descSize=15&descColor=a1a1aa" alt="Header" />
 </div>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Passionate+about+Modern+Web+Development;Building+fast%2C+scalable+%26+user-friendly+apps;ReactJS+%7C+Next.js+%7C+TypeScript+%7C+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=15&pause=1500&color=A1A1AA&center=true&vCenter=true&width=550&lines=npx+shadcn@latest+init+ltmkz-profile;Building+accessible%2C+clean+%26+modern+web+interfaces.;Open+to+Fresher+%2F+Internship+Opportunities." alt="Typing SVG" />
 </div>
 
-
+<!-- MONOCHROME SHADCN BADGES -->
 <div align="center">
   <a href="mailto:thienmenh890@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/thienmenh890@gmail.com-18181b?style=flat-square&logo=gmail&logoColor=fafafa" alt="Email" />
   </a>
   <a href="https://github.com/ltmkz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github.com%2Fltmkz-18181b?style=flat-square&logo=github&logoColor=fafafa" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ltmkz&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/status-available_for_hire-18181b?style=flat-square&logo=vercel&logoColor=22c55e" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=ltmkz&label=views&color=27272a&style=flat-square" alt="Views" />
 </div>
 
 <br/>
 
----
+### `~/about-me`
 
-### 👨‍💻 Giới thiệu bản thân (About Me)
+> Sinh viên chuyên ngành **Công nghệ Thông tin** định hướng phát triển **Fresher Frontend / Full-stack Web Developer**. Yêu thích thiết kế giao diện tối giản với `shadcn/ui`, `Tailwind CSS` và xây dựng kiến trúc ứng dụng hiện đại trên nền tảng `Next.js` & `Supabase`.
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-
-```typescript
-const ltmkz = {
-  pronouns: "He" | "Him",
-  major: "Information Technology (IT)",
-  role: "Full-stack / Frontend Web Developer",
-  code: ["JavaScript", "TypeScript", "SQL", "HTML5/CSS3"],
-  technologies: {
-    frontEnd: ["ReactJS", "Next.js", "Tailwind CSS"],
-    backEnd: ["Node.js", "Next.js Server Actions", "RESTful APIs"],
-    databases: ["PostgreSQL", "MongoDB", "Supabase"],
-    devOpsAndCloud: ["Vercel", "Google Cloud", "VPS", "Git"]
+```json
+{
+  "$schema": "[https://ui.shadcn.com/schema.json](https://ui.shadcn.com/schema.json)",
+  "developer": "ltmkz",
+  "role": "Fresher Web Developer",
+  "education": "Information Technology (IT)",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "baseColor": "zinc",
+    "cssVariables": true
   },
-  focus: "SSR/SSG Optimization, Clean Architecture & Modern UI/UX",
-  contact: "thienmenh890@gmail.com"
-};
+  "stack": {
+    "frontend": ["ReactJS", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+    "backend_db": ["Supabase", "PostgreSQL", "MongoDB", "Node.js"]
+  }
+}
