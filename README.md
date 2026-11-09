@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  Mình là Lê Thiên Mệnh, Sinh viên / Fresher chuyên ngành Công nghệ Thông tin, đam mê xây dựng các ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
+  🇬🇧 Hi, I'm <b>Le Thien Menh</b> — an IT Student / Fresher passionate about building modern, high-performance web applications with smooth user experiences using <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.<br/>
+  🇻🇳 Mình là <b>Lê Thiên Mệnh</b> — Sinh viên / Fresher chuyên ngành CNTT, đam mê xây dựng ứng dụng web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng mượt mà với <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
 </p>
 
 <div align="center">
@@ -18,16 +19,34 @@
 
 ---
 
-### 🚀 Giới thiệu bản thân (About Me)
+### 🚀 About Me | Giới thiệu bản thân
 
-- 🎓 Chuyên ngành **Công nghệ Thông tin** – Định hướng phát triển ở vị trí **Fresher Frontend / Full-stack Web Developer**.
-- 💻 Tập trung xây dựng giao diện hiện đại với **ReactJS, Next.js, Tailwind CSS, shadcn/ui** và làm việc với cơ sở dữ liệu **Supabase, PostgreSQL, MongoDB**.
-- 🌱 Luôn đề cao tinh thần tự học, rèn luyện viết code sạch (Clean Code) và chủ động cập nhật các công nghệ Web mới mỗi ngày.
-- 📫 Liên hệ với mình qua email: **thienmenh890@gmail.com**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🇬🇧 English</h4>
+      <ul>
+        <li>🎓 Majoring in <b>Information Technology</b> – pursuing a career as a <b>Fresher Frontend / Full-stack Web Developer</b>.</li>
+        <li>💻 Focused on building modern UIs with <b>ReactJS, Next.js, Tailwind CSS, shadcn/ui</b> and working with <b>Supabase, PostgreSQL, MongoDB</b>.</li>
+        <li>🌱 Committed to self-learning, writing <b>Clean Code</b>, and staying updated with modern web technologies every day.</li>
+        <li>📫 Reach me at: <b>thienmenh890@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🇻🇳 Tiếng Việt</h4>
+      <ul>
+        <li>🎓 Chuyên ngành <b>Công nghệ Thông tin</b> – Định hướng phát triển ở vị trí <b>Fresher Frontend / Full-stack Web Developer</b>.</li>
+        <li>💻 Tập trung xây dựng giao diện hiện đại với <b>ReactJS, Next.js, Tailwind CSS, shadcn/ui</b> và cơ sở dữ liệu <b>Supabase, PostgreSQL, MongoDB</b>.</li>
+        <li>🌱 Luôn đề cao tinh thần tự học, rèn luyện viết code sạch (<b>Clean Code</b>) và chủ động cập nhật công nghệ mới mỗi ngày.</li>
+        <li>📫 Liên hệ qua email: <b>thienmenh890@gmail.com</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
+### 🛠️ Tech Stack | Kỹ năng & Công nghệ
 
 **Frontend Development**
 <p>
@@ -54,16 +73,34 @@
 
 ---
 
-### 📌 Lộ trình & Dự án (Projects & Updates)
+### 📌 Projects & Updates | Lộ trình & Dự án
 
-- [x] Hoàn thiện kiến thức nền tảng **ReactJS, Next.js, TypeScript & shadcn/ui**.
-- [x] Thực hành kết nối và quản trị dữ liệu với **PostgreSQL, MongoDB & Supabase**.
-- [ ] 🔄 *(Đang cập nhật)* Đóng gói và đưa mã nguồn các dự án cá nhân (Personal Projects) lên GitHub.
-- [ ] ⏳ *(Sắp tới)* Bổ sung tài liệu hướng dẫn (`README.md`) và link Live Demo cho từng dự án.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🇬🇧 Roadmap (EN)</h4>
+      <ul>
+        <li>✅ Solidified core knowledge in <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.</li>
+        <li>✅ Practiced data management & integration with <b>PostgreSQL, MongoDB & Supabase</b>.</li>
+        <li>🔄 <i>(In Progress)</i> Packaging and publishing personal project repositories on GitHub.</li>
+        <li>⏳ <i>(Upcoming)</i> Adding detailed documentation (<code>README.md</code>) and Live Demo links for each project.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🇻🇳 Lộ trình (VI)</h4>
+      <ul>
+        <li>✅ Hoàn thiện kiến thức nền tảng <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.</li>
+        <li>✅ Thực hành kết nối và quản trị dữ liệu với <b>PostgreSQL, MongoDB & Supabase</b>.</li>
+        <li>🔄 <i>(Đang cập nhật)</i> Đóng gói và đưa mã nguồn các dự án cá nhân lên GitHub.</li>
+        <li>⏳ <i>(Sắp tới)</i> Bổ sung tài liệu hướng dẫn (<code>README.md</code>) và link Live Demo cho từng dự án.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Thống kê hoạt động GitHub (GitHub Stats)
+### 📊 GitHub Stats | Thống kê hoạt động GitHub
 
 <div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ltmkz&theme=tokyonight" alt="ltmkz's GitHub Stats" />
