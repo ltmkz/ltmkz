@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Hi, I'm <b>Le Thien Menh</b> — an IT Student / Fresher passionate about building modern, high-performance web applications with smooth user experiences using <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
+  Hi, I'm <b>Le Thien Menh</b> — an IT Student passionate about building modern, high-performance web applications with smooth user experiences using <b>ReactJS, Next.js, TypeScript & shadcn/ui</b>.
 </p>
 
 <div align="center">
